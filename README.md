@@ -53,6 +53,7 @@ Link: https://kraftnest.netlify.app/
 
 ## 🔮 Future Enhancements
 
+- Cart
 - Payment gateway integration
 - Seller analytics dashboard
 - Product reviews and ratings
