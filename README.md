@@ -17,6 +17,8 @@ Link: https://kraftnest.netlify.app/
 ### Backend
 - Spring Boot
 - Spring Security + JWT
+- Spring Data JPA
+- Lombok
 - PostgreSQL
 - Docker
 - Render
