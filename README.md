@@ -29,13 +29,13 @@ Link: https://kraftnest.netlify.app/
 
 ## 🚀 Features
 
--Secure JWT authentication
--Role-based access (Admin/User)
--Product search & filters
--Admin product management
--Global exception handling
--Reusable React components
--Custom auth hooks
+- Secure JWT authentication
+- Role-based access (Admin/User)
+- Product search & filters
+- Admin product management
+- Global exception handling
+- Reusable React components
+- Custom auth hooks
 
 ## 🔮 Future Enhancements
 
