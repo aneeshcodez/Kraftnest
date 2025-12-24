@@ -36,6 +36,8 @@ Link: https://kraftnest.netlify.app/
 - Global exception handling
 - Reusable React components
 - Custom auth hooks
+- Responsive UI using Tailwind CSS
+- Dockerized backend deployment
 
 ## 🔮 Future Enhancements
 
