@@ -51,6 +51,12 @@ Link: https://kraftnest.netlify.app/
 - Responsive UI using Tailwind CSS
 - Dockerized backend deployment
 
+## 🧭 Application Flow
+
+👉 [View Application Flow & Screenshots](./App_Flow.md)
+
+
+
 ## 🔮 Future Enhancements
 
 - Cart
