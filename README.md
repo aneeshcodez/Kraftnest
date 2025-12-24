@@ -53,7 +53,7 @@ Link: https://kraftnest.netlify.app/
 
 ## 🧭 Application Flow
 
-👉 [View Application Flow & Screenshots](./App_Flow.md)
+👉 [View Application Flow](./App_Flow.md)
 
 
 
