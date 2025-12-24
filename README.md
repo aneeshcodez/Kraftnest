@@ -6,6 +6,16 @@ A Simple Marketplace for small home-based artisans with buyers featuring reduced
 
 Link: https://kraftnest.netlify.app/
 
+## 🔐 Demo Login Credentials
+
+### Admin
+- Username: Ram
+- Password: pwd1
+
+### User
+- Username: Sam
+- Password: pwd2
+
 ## 📁 Source Code
 
 - Backend Repository: https://github.com/aneeshcodez/Kraftnest-Backend
