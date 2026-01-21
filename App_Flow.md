@@ -42,3 +42,16 @@
 </a>
 
 *Click image to view full size*
+
+---
+### Delete Product
+<a href="https://github.com/user-attachments/assets/906287a7-a1fe-4e82-968c-38191c9f1acc" target="_blank">
+  <img src="https://github.com/user-attachments/assets/906287a7-a1fe-4e82-968c-38191c9f1acc" width="850" />
+</a>
+
+*Click image to view full size*
+
+---
+
+
+
